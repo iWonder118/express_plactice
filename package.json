@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/iWonder118/express_plactice/issues"
   },
-  "homepage": "https://github.com/iWonder118/express_plactice#readme"
+  "homepage": "https://github.com/iWonder118/express_plactice#readme",
+  "dependencies": {
+    "mongoose": "^5.11.10",
+    "nodemon": "^2.0.6"
+  }
 }
